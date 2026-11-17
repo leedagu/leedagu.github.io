@@ -1048,3 +1048,4 @@ zmaticoo.com, 5135010, RESELLER
 zmaticoo.com, 5135296, RESELLER
 # END TNK (console update 2026-08-26)
 google.com, pub-9465902273911347, DIRECT, f08c47fec0942fa0
+google.com, pub-9841188714058285, DIRECT, f08c47fec0942fa0
